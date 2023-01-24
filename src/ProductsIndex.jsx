@@ -1,1 +1,7 @@
-export function ProductsIndex() { }
+export function ProductsIndex() { 
+  return (
+    <div>
+      <p>Product index</p>
+    </div>
+  );
+}
